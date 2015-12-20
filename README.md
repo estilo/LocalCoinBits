@@ -1,0 +1,2 @@
+# LocalCoinBits
+LocalCoinBits API Wrapper
